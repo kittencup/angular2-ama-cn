@@ -1,7 +1,7 @@
 # angular2-ama-cn
 angular2 随便问(Ask me anything!)
 
-[问一个问题](https://github.com/kittencup/angular2-ama-cn/issues/new) [查看所有问题](https://github.com/kittencup/angular2-ama-cn/issues)
+## [问一个问题](https://github.com/kittencup/angular2-ama-cn/issues/new) &nbsp;&nbsp;&nbsp; [查看所有问题](https://github.com/kittencup/angular2-ama-cn/issues)
 
 ### 指南
 
