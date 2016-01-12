@@ -7,6 +7,7 @@ angular2 随便问(Ask me anything!)
 
 - 确保你的问题还没有得到答复。
 - 使用简洁的标题和描述。
+- 1个issue代表1个问题
 - 代码尽可能的有线上版 http://plnkr.co/
 
 
