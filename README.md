@@ -9,7 +9,7 @@ angular2 随便问(Ask me anything!)
 - 使用简洁的标题和描述。
 - 1个issue代表1个问题
 - 代码尽可能的有线上版 http://plnkr.co/
-
+- 问题一般当天完成，如比较忙，可能隔天完成
 
 ### QQ群
 
