@@ -10,6 +10,7 @@ angular2 随便问(Ask me anything!)
 - 1个issue代表1个问题
 - 代码尽可能的有线上版 http://plnkr.co/
 - 问题一般当天完成，如比较忙，可能隔天完成
+- 请围绕angular 2来提问，不建议提问具体业务实现细节
 
 ### QQ群
 
