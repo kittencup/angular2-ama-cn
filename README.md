@@ -15,3 +15,5 @@ angular2 随便问(Ask me anything!)
 ### QQ群
 
 263752194
+
+<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8b3b928036a3bf03b1e1bb71c5b2f748c90b727eb6de67488d05962495b4ef64"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Angular2.0 大神群" title="Angular2.0 大神群"></a>
