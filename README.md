@@ -18,6 +18,3 @@ angular2 随便问(Ask me anything!)
 
 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=8b3b928036a3bf03b1e1bb71c5b2f748c90b727eb6de67488d05962495b4ef64"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Angular2.0 大神群" title="Angular2.0 大神群"></a>
 
-### 微信群
-
-![9gzl v 3 o4qheq9pke ag](https://cloud.githubusercontent.com/assets/2220385/14007453/cc855424-f1b1-11e5-97e0-7cbcebdf979b.jpg)
